@@ -1,0 +1,213 @@
+{
+
+    "Header.Item1": "Acerca de mi",
+    "Header.Item2": "Experiencia",
+    "Header.Item3": "Proyectos",
+    "Header.Item4": "Contacto",
+    "Header.cvBtn": "Curriculum",
+    "Header.cvName": "CV_David_Casa_Espanol.pdf",
+
+    "Banner.Pretitle": "Hola! Mi nombre es",
+    "Banner.Description": "Tengo <span class='underline'> 6 años de experiencia </span> en el mundo del desarrollo de software, arquitectura de software, aplicaciones moviles, y soluciones tecnologicas para hacer de la web un mejor lugar. Me dedico a desarrollar software a medida basado en arquitecturas limpias, aplicando clean code , mejorando soluciones existentes y haciendolas escalables con tecnologias en auge.",
+    "Banner.ActionBtn": "Saludame",
+
+    "AboutMe.Title": "Acerca de mi",
+    "AboutMe.Paragraphs": [
+        "En mis <span class='underline'> 6 años como desarrollador </span> busco capacitarme y estar actualizado en las técnologias que domino. He trabajado realizando desarrollos para plataformas web, aplicaciones moviles híbridas, administrando y configurando servidores, despliegues a producción, levantamiento de requerimientos. Tambien he liderado varios equipos en los cuales he tenido empatia con mis compañeros llevando todos el mismo objetivo en común, concluir con proyectos de manera exitosa.",
+        "Mis capacidades tambien incluyen implementar mejoras, optimizar sistemas, estandarizar patrones de arquitectura o de diseño, proponer posibles soluciones que añadan un valor agregado al producto final o al PMV.",
+        "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
+    ],
+
+
+    "Experience.Title": "Experiencia",
+    "Experience.Jobs": [
+      {
+        "Tab": "Freelancer",
+        "Title": "Independiente",
+        "Date": "Mayo 2020 - Actualidad",
+        "Description": [
+          "Implementacion de mejoras continuas, trabajando en frontend y backend.",
+          "Creación de plataformas con Angular, Laravel, Python, Java, React.",
+          "Automatización de procesos con estructuras de datos y modelamiento de base de datos.",
+          "Maquetación de diseños con SASS, Bootstrap, Materialize, Bulma, etc.",
+          "Desarrollo de aplicaciones moviles con Ionic, React Native, Flutter."
+        ]
+      },
+      {
+        "Tab": "BIT",
+        "Title": "Front End Developer",
+        "Date": "Enero 2023 - Actualidad",
+        "Description": [
+          "Desarrollo de plataforma para cliente Torres & Torres.",
+          "Soporte autenticación en PHP.",
+          "Certificación fundamentos de Azure."
+        ]
+      },
+      {
+        "Tab": "SES",
+        "Title": "FullStack developer",
+        "Date": "Marzo 2019 - Enero 2023",
+        "Description": [
+          "Desarrollo de plataforma de educacion online",
+          "Reproducción de videos mediante librería de JavaScriptVideojs.",
+          "Streaming con AWS para reproducción de video mediante tramas",
+          "Liderando un equipo de 4 personas en el desarrollo de una plataforma de gestión de Datos de turismo hecha en Angular, Laravel y MySQL. ",
+          "Integración con servicio SOAP del registro civil proporcionado por CHUBB.",
+          "Desarrollo de facturación electrónica esquema actualizado offline SRI Ecuador.",
+          "Desarrollo de CRM para venta y reparación de dispositivos móviles.",
+          "Apoyo en configuración de ambientes productivos en AWS.",
+          "Desarrollo de aplicación para representación gráfica de estadísticas.",
+          "Aplicación móvil modo online y offline",
+          "Desarrollo de componente para conexión de impresora térmica, mediante SDK y cordova.",
+          "Creación de API para consulta de servicios SOAP del municipio de Azuay."
+        ]
+      },
+      {
+        "Tab": "Kruger Corp",
+        "Title": "Consultor técnico",
+        "Date": "Febrero 2018 - Marzo 2019",
+        "Description": [
+          "Manteniemiento de Odoo ERP de Kruger Corp.",
+          "Integracion de facturación electronica en Odoo ERP.",
+          "Levantamiento de procesos y flujos del area de marketing",
+          "Levantamiento de requerimientos en el área de RH y contabilidada",
+          "Desarrollo de módulo de vacaciones en Odoo ERP.",
+          "Integración de plantilla personalizada para cada CV de los colaboradores",
+          "Integración de multiempresas de Odoo ERP."
+        ]
+      }
+    ],
+
+    "FeatureProjects.Title": "Mis proyectos",
+    "FeatureProjects.Label": "Proyecto Destacado",
+    "FeatureProjects.Projects": [{
+            "Title": "Futgol",
+            "Description": "Aplicación de <span class='underline'>gestión de campeonatos de fútbol</span> en ligas barriales, la cual cuenta con los modulos de campeonatos, equipos, programación, calendario.",
+            "imgs": [
+                "assets/images/futgol/fut1.png",
+                "assets/images/futgol/fut2.png",
+                "assets/images/futgol/fut3.png",
+                "assets/images/futgol/fut4.png",
+                "assets/images/futgol/fut5.png",
+                "assets/images/futgol/fut6.png",
+                "assets/images/futgol/fut7.png",
+                "assets/images/futgol/fut8.png",
+                "assets/images/futgol/fut9.png",
+                "assets/images/futgol/fut10.png",
+                "assets/images/futgol/fut11.png",
+                "assets/images/futgol/fut12.png",
+                "assets/images/futgol/fut13.png",
+                "assets/images/futgol/fut14.png",
+                "assets/images/futgol/fut15.png",
+                "assets/images/futgol/fut16.png",
+                "assets/images/futgol/fut17.png",
+                "assets/images/futgol/fut18.png",
+                "assets/images/futgol/fut20.png"
+            ],
+            "Technologies": ["Python", "Angular", "SASS", "Material bootstrap", "RxJS", "Dropbox"]
+        },
+        {
+            "Title": "Coursum",
+            "Description": "Plataforma de <span class='underline'> educación en línea </span>, brinda cursos pregrabados, con integración de pagos con Pago Medios e integración de inicio de sesión con Google y Facebook. Desplegado en AWS. Web Responsive",
+            "imgs": [
+                "assets/images/cursum/c1.png",
+                "assets/images/cursum/c2.png",
+                "assets/images/cursum/c3.png",
+                "assets/images/cursum/c4.png",
+                "assets/images/cursum/c5.png",
+                "assets/images/cursum/c6.png",
+                "assets/images/cursum/c7.png",
+                "assets/images/cursum/c8.png"
+            ],
+            "Technologies": ["PHP", "Scriptcase", "Css", "Bootstrap", "Pago Medios", "AWS", "Google", "Facebook"]
+        },
+        {
+            "Title": "SES Pocket",
+            "Description": "Aplicación móvil hibrida, la cual muestra estadisticas de manera gráfica adicional realiza tema de carga de documentos, bitacoras.",
+            "imgs": [
+                "assets/images/ses/s1.jpg",
+                "assets/images/ses/s2.jpg"
+            ],
+            "Technologies": ["Ionic", "Angular", "SASS", "Angular Material", "RxJS", "Lumen", "AWS"]
+        },
+        {
+            "Title": "Mi médico",
+            "Description": "Pack de aplicaciones móviles las cuales funcionan como directorio médico en la cual se puede buscar mediante localización a médicos cerca, mediante filtros. Aplicación de medico para la gestión de sus citas agendadas previamente.",
+            "imgs": [
+              "assets/images/medico/m1.jpg",
+              "assets/images/medico/m2.jpg",
+              "assets/images/medico/m3.jpg",
+              "assets/images/medico/m4.jpg",
+              "assets/images/medico/m5.jpg",
+              "assets/images/medico/m6.jpg",
+              "assets/images/medico/m7.jpg"
+            ],
+            "Technologies": ["Angular", "CSS GRID", "SASS", "Ionic", "Lumen", "PHP", "AWS"]
+        },
+        {
+            "Title": "SICU",
+            "Description": "Aplicación de multas manuales utilizada en el municipio de la EMOV, cuenta con carga de evidencias como imagenes, audios.",
+            "imgs": [
+              "assets/images/sicu/s1.jpg",
+              "assets/images/sicu/s2.jpg"
+            ],
+            "ghLink": "https://github.com/andresjosehr/countries-viewer",
+            "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
+            "Technologies": ["Angular", "RxJS", "SASS", "API"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "Mas proyectos",
+    "OtherProjects.Projects": [{
+            "Title": "Pokemon",
+            "Description": "Buscador de pokemons que utiliza la pokeapi. Se usó programación orientada a objetos para organizar la información de los pokemons junto con su respectiva imagen.",
+            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+            "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
+            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+        },
+        {
+            "Title": "Coming soon page",
+            "Description": "Proyecto personal de una página dividida de dos columnas para ser usado como 'Coming soon page'. Programada para ser totalmente responsive design. Cuenta con un campo de formulario para suscribirse por correo electrónico.",
+            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+            "demoLink": "https://proyectos.andresjosehr.com/coming-soon-page",
+            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+        },
+        {
+            "Title": "Four card feature section",
+            "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
+            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+            "demoLink": "https://proyectos.andresjosehr.com/four-card-feature-section",
+            "Technologies": ["Angular", "SASS", "CSS GRID"]
+        },
+        {
+            "Title": "Social proof section",
+            "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
+            "ghLink": "https://github.com/andresjosehr/social-proof-section",
+            "demoLink": "https://proyectos.andresjosehr.com/social-proof-section",
+            "Technologies": ["Angular", "CSS GRID", "GIT"]
+        },
+        {
+            "Title": "FAQ accordion card",
+            "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
+            "ghLink": "https://github.com/andresjosehr/faq-accordion",
+            "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+        },
+        {
+            "Title": "Profile card",
+            "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
+            "ghLink": "https://github.com/andresjosehr/profile-card-component",
+            "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+            "Technologies": ["Angular", "SASS", "GIT"]
+        }
+    ],
+
+    "Contact.Pretitle": "Y... ¿Ahora?",
+    "Contact.Title": "¡Saludame!",
+    "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
+    "Contact.Btn": "Contactame"
+
+
+}
